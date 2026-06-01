@@ -1,0 +1,9 @@
+MEMORY.md
+memory/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.pem
+github-token.txt
+openclaw.json
+upload-service/
